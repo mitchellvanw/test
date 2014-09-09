@@ -129,6 +129,8 @@ return [
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 
+        'Mitch\LaravelDoctrine\LaravelDoctrineServiceProvider',
+
 	],
 
 	/*

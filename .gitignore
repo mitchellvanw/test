@@ -1,4 +1,6 @@
 /vendor
+/.idea
+/workbench/mitchellvanw
 composer.phar
 composer.lock
 .env.*
